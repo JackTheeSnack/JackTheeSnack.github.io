@@ -1,0 +1,101 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+  text-align: center;
+  color: white;
+  background: url("images/background-image.jpg");
+  background-size: cover;
+  font-size: 1.5em;
+    }
+
+ul {
+	padding-left: 10px;
+    color: white;
+    background: black;
+    background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    }
+li {
+	font-family: 'Hind Siliguri';
+    color: white;
+    display: inline;
+    padding: 0px 10px 0px 10px
+}
+a {
+	color: white;
+	font-family: 'Hind Siliguri';
+}
+h1 {
+	text-align: center;
+    font-family: 'Shrikhand', cursive;
+	font-size: 70px;
+	color: rgba(254, 73, 73 ,1);
+    margin: 0 auto;
+}
+.body-pics {
+  border: 7px solid rgba(255, 255, 255,1);
+  border-radius: 20px;
+	display: block;
+    margin: auto;
+  
+}
+p {
+	padding-top: 5px;
+	font-family: 'Poppins', cursive;
+	color: rgba(0,0,0,1);
+	
+}
+ article {
+      max-width: 1000px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+h2 {
+	font-family: 'Spectral SC', cursive;
+	color: rgba(255, 202, 58, 1);
+}
+.title {
+	font-size: 60px;
+	margin: 0;
+	padding: 100px 10px 30px 10px;
+}
+body{
+    background-color:rgba(23,130,196,1);
+}
+div {
+    padding: 30px;
+    
+}
+
+.ATM {
+    text-align: center;
+}
+
+table, tr {
+	color: white;
+}
+table {
+    width: 100%;
+    margin: auto; style;
+}
+tr {
+    height: 50px;
+    font-family: 'Poppins';
+}
+td, th {
+	padding: 15px;
+    text-align: left; 
+}
+th {
+	background-color: rgba(255, 103, 0, 1);
+    color: #000000;
+    font-family: 'Spectral SC'
+}
+td, tr {
+	color: black;
+	background-color: rgb(255, 255, 255);
+}
