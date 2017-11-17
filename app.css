@@ -95,5 +95,5 @@ td, tr {
 	background-color: rgb(255, 255, 255);
 }
 .family {
-	rotate: 240;
+	transform: rotate(180deg);
 }
