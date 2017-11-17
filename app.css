@@ -94,3 +94,8 @@ td, tr {
 	color: black;
 	background-color: rgb(255, 255, 255);
 }
+.family {
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
