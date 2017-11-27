@@ -109,4 +109,5 @@ td, tr {
 }
 .example-paragraphs {
 	text-indent: 25px;
+	text-align: justify;
 }
