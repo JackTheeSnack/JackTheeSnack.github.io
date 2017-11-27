@@ -111,3 +111,6 @@ td, tr {
 	text-indent: 25px;
 	text-align: justify;
 }
+html {
+	margin: 0 auto;
+}
