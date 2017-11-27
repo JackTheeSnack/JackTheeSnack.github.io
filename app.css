@@ -3,25 +3,25 @@
 	padding: 0;
 }
 header {
-  text-align: center;
-  color: white;
-  background: url("images/background-image.jpg");
-  background-size: cover;
-  font-size: 1.5em;
+  	text-align: center;
+  	color: white;
+  	background: url("images/background-image.jpg");
+  	background-size: cover;
+  	font-size: 1.5em;
 }
 ul {
 	padding-left: 10px;
-    color: white;
-    background: black;
-    background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-    background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-    background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-    }
+    	color: white;
+    	background: black;
+    	background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    	background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    	background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+}
 li {
-    font-family: 'Hind Siliguri';
-    color: white;
-    display: inline;
-    padding: 0px 10px 0px 10px;
+    	font-family: 'Hind Siliguri';
+    	color: white;
+    	display: inline;
+    	padding: 0px 10px 0px 10px;
 }
 a {
 	color: white;
@@ -29,16 +29,16 @@ a {
 }
 h1 {
 	text-align: center;
-    font-family: 'Shrikhand', cursive;
+    	font-family: 'Shrikhand', cursive;
 	font-size: 70px;
 	color: rgba(254, 73, 73 ,1);
-    margin: 0 auto;
+    	margin: 0 auto;
 }
 .body-pics {
-  border: 7px solid rgba(255, 255, 255,1);
-  border-radius: 20px;
+  	border: 7px solid rgba(255, 255, 255,1);
+  	border-radius: 20px;
 	display: block;
-    margin: auto;  
+    	margin: auto;  
 }
 p {
 	padding-top: 5px;
@@ -46,9 +46,9 @@ p {
 	color: rgba(0,0,0,1);
 }
  article {
-      max-width: 1000px;
-      padding: 20px;
-      margin: 0 auto;
+      	max-width: 1000px;
+      	padding: 20px;
+      	margin: 0 auto;
 }
 h2 {
 	font-family: 'Spectral SC', cursive;
@@ -60,49 +60,49 @@ h2 {
 	padding: 100px 10px 30px 10px;
 }
 body{
-    background-color:rgba(23,130,196,1);
+    	background-color:rgba(23,130,196,1);
 }
 div {
-    padding: 30px;    
+    	padding: 30px;    
 }
 .ATM {
-    text-align: center;
+    	text-align: center;
 }
 table, tr {
 	color: white;
 }
 table {
-    width: 100%;
-    margin: auto; style;
+    	width: 100%;
+    	margin: auto; style;
 }
 tr {
-    height: 50px;
-    font-family: 'Poppins';
+    	height: 50px;
+    	font-family: 'Poppins';
 }
 td, th {
 	padding: 15px;
-    text-align: left; 
+   	text-align: left; 
 }
 th {
 	background-color: rgba(255, 103, 0, 1);
-    color: #000000;
-    font-family: 'Spectral SC'
+    	color: #000000;
+    	font-family: 'Spectral SC'
 }
 td, tr {
 	color: black;
 	background-color: rgb(255, 255, 255);
 }
 .family {
-  -webkit-transform:rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
-  transform: rotate(45deg);
+  	-webkit-transform:rotate(45deg);
+  	-moz-transform: rotate(45deg);
+ 	-ms-transform: rotate(45deg);
+  	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
 }
 .link {
-  color: black;
+	color: black;
 }
-h3 {
+.example {
 	color: rgba(138, 201, 38, 1);
 	font-family: 'Spectral SC', cursive;
 	text-indent: 25px;
