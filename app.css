@@ -107,3 +107,6 @@ td, tr {
 	font-family: 'Spectral SC', cursive;
 	text-indent: 25px;
 }
+.example-paragraphs {
+	text-indent: 25px;
+}
