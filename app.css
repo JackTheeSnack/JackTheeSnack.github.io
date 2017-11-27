@@ -18,13 +18,13 @@ ul {
     background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
     }
 li {
-	font-family: 'Hind Siliguri';
+    font-family: 'Hind Siliguri';
     color: white;
     display: inline;
     padding: 0px 10px 0px 10px
 }
 a {
-	color: black;
+	color: white;
 	font-family: 'Hind Siliguri';
 }
 h1 {
@@ -101,4 +101,7 @@ td, tr {
 }
 .link {
   color: black;
+}
+td {
+  color: rgba(255, 202, 58, 1);
 }
