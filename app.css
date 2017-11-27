@@ -2,15 +2,13 @@
 	margin: 0;
 	padding: 0;
 }
-
 header {
   text-align: center;
   color: white;
   background: url("images/background-image.jpg");
   background-size: cover;
   font-size: 1.5em;
-    }
-
+}
 ul {
 	padding-left: 10px;
     color: white;
