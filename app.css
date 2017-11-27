@@ -102,3 +102,8 @@ td, tr {
 .link {
   color: black;
 }
+h3 {
+	color: rgba(138, 201, 38, 1);
+	font-family: 'Spectral SC', cursive;
+	text-indent: 25px;
+}
