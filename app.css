@@ -38,7 +38,7 @@ h1 {
   	border: 7px solid rgba(255, 255, 255,1);
   	border-radius: 20px;
 	display: block;
-    	margin: auto;  
+    	margin: 0 auto;  
 }
 p {
 	padding-top: 5px;
